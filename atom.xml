@@ -3,11 +3,11 @@
   <title>UncleStudo</title>
   
   <subtitle>nas.ro.to</subtitle>
-  <link href="http://blog.zzcv.cn/atom.xml" rel="self"/>
+  <link href="http://nas.ro.to/atom.xml" rel="self"/>
   
-  <link href="http://blog.zzcv.cn/"/>
+  <link href="http://nas.ro.to/"/>
   <updated>2023-02-15T22:09:14.637Z</updated>
-  <id>http://blog.zzcv.cn/</id>
+  <id>http://nas.ro.to/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://blog.zzcv.cn/2023/02/16/hello-world/"/>
-    <id>http://blog.zzcv.cn/2023/02/16/hello-world/</id>
+    <link href="http://nas.ro.to/2023/02/16/hello-world/"/>
+    <id>http://nas.ro.to/2023/02/16/hello-world/</id>
     <published>2023-02-15T22:09:14.637Z</published>
     <updated>2023-02-15T22:09:14.637Z</updated>
     
